@@ -1,0 +1,46 @@
+ body {
+      text-align: center;
+    }
+
+    h1 {
+      display: block;
+      text-align: center;
+      margin: 11px;
+      font-weight: 500;
+      line-height: 1.2;
+      font-size: 45px;
+      color: gray;
+    }
+
+    .weather-1 {
+      display: block;
+      text-align: center;
+      font-size: 30px;
+    }
+    .number {
+      font-size: 10px;
+    }
+    .number2 {
+      font-size: 30px;
+    }
+    .img {
+      display: block;
+      margin-left: 100px;
+    }
+    .weather-2 {
+      text-align: left;
+      font-size: 20px;
+    }
+
+    .search {
+      margin-top: 20px;
+      display: block;
+      text-align: center;
+      width: 100%;
+    }
+
+    .weather-3 img {
+      width: 80px;
+      border-radius: 12px;
+      margin-right: 20px;
+    }
