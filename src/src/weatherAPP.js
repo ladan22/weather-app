@@ -94,4 +94,4 @@ let hours = now.getHours();
 let minutes = now.getMinutes();
 let month = monthName[now.getMonth()];
 let date = now.getDate();
-dateElement.innerHTML = `${day} ${date} ${month} ${hours}:${minutes}`;
+dateElement.innerHTML = `${day} , ${date} ${month} ${hours}:${minutes}`;
